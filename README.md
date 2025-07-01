@@ -1,17 +1,9 @@
-<h2 align="center">👋 Olá! Eu sou um dev iniciante</h2>
+<h2 align="center">Bem-vindo ao meu perfil</h2>
 
 <p align="center">
-  💻 Experiente em JavaScript e Python<br>
-  🧠 Estudando Java e Spigot/Bukkit para criar experiências únicas<br>
-  🚀 Sempre em busca de evoluir e aprender mais no mundo da programação
+  💻 Me chamo João, sou um DEV iniciante!<br>
+  🧠 Atualmente, estou estudando e me aprofundando no Java<br>
 </p>
-
----
-
-### 🛠️ Minhas principais ferramentas:
-- **Linguagens:** Java, JavaScript, Python
-- **Plataformas:** Spigot, Bukkit
-- **IDE:** IntelliJ IDEA, VS Code
 
 ---
 
@@ -27,8 +19,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=travisfps&show_icons=true&theme=dark" alt="Estatísticas do GitHub" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=travisfps&layout=compact&theme=dark" alt="Linguagens mais usadas" />
-</p>
 
 ---
 
