@@ -1,7 +1,6 @@
-<h2 align="center">👋 Olá! Eu sou um dev iniciante focado em plugins de Minecraft</h2>
+<h2 align="center">👋 Olá! Eu sou um dev iniciante</h2>
 
 <p align="center">
-  🎮 Apaixonado por desenvolvimento de plugins que transformam a jogabilidade<br>
   💻 Experiente em JavaScript e Python<br>
   🧠 Estudando Java e Spigot/Bukkit para criar experiências únicas<br>
   🚀 Sempre em busca de evoluir e aprender mais no mundo da programação
